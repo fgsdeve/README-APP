@@ -21,6 +21,7 @@ npm install
 
 ## Usage
 To run the README generator, execute the following command: node index.js
+Video link for clarity: https://drive.google.com/file/d/1GYIEVB-e29p6VIXaqHHPoX7ilmMsMS_x/view?usp=sharing
 
 ## Features
 - Interactive prompts for generating README content.
